@@ -13,15 +13,15 @@ https://github.com/user-attachments/assets/8c0f759c-5608-4e02-9928-20d8c1f20330
 
 ## Bibliotecas relevantes.
 No decorrer do projeto:
-- pandas;
-- numpy;
-- matplotlib;
-- seaborn;
-- patsy;
-- stasmodels;
-- sklearn.
+- [Pandas](https://pandas.pydata.org/);
+- [Numpy](https://numpy.org/);
+- [Matplotlib](https://matplotlib.org/);
+- [Seaborn](https://seaborn.pydata.org/);
+- [Patsy](https://patsy.readthedocs.io/en/latest/);
+- [Stasmodels](https://www.statsmodels.org/stable/index.html);
+- [Scikit-learn](https://scikit-learn.org/stable/).
 
 Para visualização online:
-- streamlit;
-- pandas;
-- plotly.
+- [Streamlit](https://streamlit.io/);
+- [Pandas](https://pandas.pydata.org/);
+- [Plotly](https://plotly.com/python-api-reference/plotly.express.html).
