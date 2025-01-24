@@ -2,7 +2,7 @@
 
 A visualização online deste trabalho foi desenvolvida por meio do streamlit.
 
-## Streamlit: ([Acessar deploy](https://projeto-previsaoderenda-wfkuaurxjodhkjstxfpt8q.streamlit.app/))
+## Streamlit:
 
 https://github.com/user-attachments/assets/8c0f759c-5608-4e02-9928-20d8c1f20330
 
